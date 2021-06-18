@@ -1,0 +1,44 @@
+
+}
+.texto1{
+	position:absolute;
+	top:10px;
+	left:10%;
+	font-size:22px;
+    color:yellow;
+}
+*
+ {
+	 font-family:verdana;
+	 margin:3px;
+	 padding:3px;
+ }
+
+  footer{
+	 background:black;
+	 height:20%;
+	 color:blue;
+	 
+ }
+ @media screen and (max-width:500px)
+ {    
+     #cont1
+	 {
+		 background:purple;
+	 }
+ }
+ @media screen and (min-width:500px)
+ {
+	 #cont1
+	 {
+		 background:blue;
+	 }
+ }
+@media (orientatio:portrait)
+{
+	body{
+		background:lightblue;
+	}
+}	
+@media (orientation:landscape) 
+{

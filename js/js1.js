@@ -1,0 +1,1 @@
+var n=prompt("escriba musica");
